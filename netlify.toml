@@ -1,0 +1,4 @@
+[[redire]]
+from = "/*"
+to = "/main.html"
+status = 200
