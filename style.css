@@ -411,3 +411,10 @@
  footer p {
      text-align: center;
  }
+ 
+ footer {
+     background: #333;
+     color: #333;
+     text-align: center;
+     padding: 10px 0;
+ }
